@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Luminous-w/static/css/main.d92364fb.chunk.css",
+    "main.js": "/Luminous-w/static/js/main.bd5d64a9.chunk.js",
+    "main.js.map": "/Luminous-w/static/js/main.bd5d64a9.chunk.js.map",
+    "runtime-main.js": "/Luminous-w/static/js/runtime-main.c7e06c57.js",
+    "runtime-main.js.map": "/Luminous-w/static/js/runtime-main.c7e06c57.js.map",
+    "static/css/2.1fb90f1e.chunk.css": "/Luminous-w/static/css/2.1fb90f1e.chunk.css",
+    "static/js/2.25f1de39.chunk.js": "/Luminous-w/static/js/2.25f1de39.chunk.js",
+    "static/js/2.25f1de39.chunk.js.map": "/Luminous-w/static/js/2.25f1de39.chunk.js.map",
+    "static/js/3.dd69f847.chunk.js": "/Luminous-w/static/js/3.dd69f847.chunk.js",
+    "static/js/3.dd69f847.chunk.js.map": "/Luminous-w/static/js/3.dd69f847.chunk.js.map",
+    "index.html": "/Luminous-w/index.html",
+    "static/css/2.1fb90f1e.chunk.css.map": "/Luminous-w/static/css/2.1fb90f1e.chunk.css.map",
+    "static/css/main.d92364fb.chunk.css.map": "/Luminous-w/static/css/main.d92364fb.chunk.css.map",
+    "static/js/2.25f1de39.chunk.js.LICENSE.txt": "/Luminous-w/static/js/2.25f1de39.chunk.js.LICENSE.txt",
+    "static/media/Kurtis.e9a5e348.png": "/Luminous-w/static/media/Kurtis.e9a5e348.png",
+    "static/media/Sari.967c5a0d.png": "/Luminous-w/static/media/Sari.967c5a0d.png",
+    "static/media/luminousLogo.a37e7a02.png": "/Luminous-w/static/media/luminousLogo.a37e7a02.png",
+    "static/media/navbarimg.b7828144.jpeg": "/Luminous-w/static/media/navbarimg.b7828144.jpeg",
+    "static/media/western.a9cae9a7.png": "/Luminous-w/static/media/western.a9cae9a7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7e06c57.js",
+    "static/css/2.1fb90f1e.chunk.css",
+    "static/js/2.25f1de39.chunk.js",
+    "static/css/main.d92364fb.chunk.css",
+    "static/js/main.bd5d64a9.chunk.js"
+  ]
+}
