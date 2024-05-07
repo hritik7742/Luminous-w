@@ -1,0 +1,82 @@
+.ezy__epother2_Tpa9xOKC {
+    /* Bootstrap variables */
+    --bs-body-color: #212529;
+    --bs-body-bg: rgb(255, 255, 255);
+
+    /* Easy Frontend variables */
+    --ezy-theme-color: rgb(13, 110, 253);
+    --ezy-theme-color-rgb: 13, 110, 253;
+
+    background-color: var(--bs-body-bg);
+    color: #fff;
+    overflow: hidden;
+    position: relative;
+    padding: 60px 0;
+    z-index: 1;
+}
+
+@media (min-width: 768px) {
+    .ezy__epother2_Tpa9xOKC {
+        padding: 100px 0;
+    }
+}
+
+/* Gray Block Style */
+.gray .ezy__epother2_Tpa9xOKC,
+.ezy__epother2_Tpa9xOKC.gray {
+    /* Bootstrap variables */
+    --bs-body-bg: rgb(246, 246, 246);
+}
+
+/* Dark Gray Block Style */
+.dark-gray .ezy__epother2_Tpa9xOKC,
+.ezy__epother2_Tpa9xOKC.dark-gray {
+    /* Bootstrap variables */
+    --bs-body-color: #ffffff;
+    --bs-body-bg: rgb(30, 39, 53);
+}
+
+/* Dark Block Style */
+.dark .ezy__epother2_Tpa9xOKC,
+.ezy__epother2_Tpa9xOKC.dark {
+    /* Bootstrap variables */
+    --bs-body-color: #ffffff;
+    --bs-body-bg: rgb(11, 23, 39);
+}
+
+.ezy__epother2_Tpa9xOKC-card {
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.ezy__epother2_Tpa9xOKC-heading {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.2;
+}
+
+@media (min-width: 768px) {
+    .ezy__epother2_Tpa9xOKC-heading {
+        font-size: 46px;
+    }
+}
+
+.ezy__epother2_Tpa9xOKC-sub-heading {
+    font-size: 17px;
+    line-height: 1.7;
+    opacity: 0.8;
+}
+
+.ezy__epother2_Tpa9xOKC-btn {
+    padding: 12px 35px;
+    line-height: 1;
+    font-weight: bold;
+    background-color: #fff;
+    color: #98bcb6;
+    border-radius: 8px;
+}
+
+.ezy__epother2_Tpa9xOKC-btn:hover {
+    color: #98bcb6;
+}
