@@ -1,7 +1,7 @@
 {
     "name": "luminous-wear",
     "version": "0.1.0",
-    "private": true,
+    "private": false, 
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^6.5.2",
         "@fortawesome/free-brands-svg-icons": "^6.5.2",
@@ -21,11 +21,12 @@
         "web-vitals": "^1.1.2"
     },
     "scripts": {
-        "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
-        "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
-        "test": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts test",
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
         "eject": "react-scripts eject"
-    },
+    }
+    ,
     "eslintConfig": {
         "extends": [
             "react-app",
@@ -43,5 +44,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "gh-pages": "^6.1.1"
     }
 }
